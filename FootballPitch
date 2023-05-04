@@ -1,0 +1,48 @@
+<html>
+<head>
+ <title>Futbol Stadyumu</title>
+ <style type="text/css">
+.grikutu{width:478px; height:565px; margin:100px auto; border-radius: 110px; padding:65px 0 0 55px; background: #d3d3d3;}
+.acikyesilkutu{width:364px; height:437px; background:rgb(99, 246, 99); border-radius:50px 50px 0 0; padding:63px 0 0 61px}
+.koyuyesilkutu{width:263px; height:355px; background:rgb(40, 77, 40); border-radius:40px; padding:35px 0 0 37px}
+.saha{width:222px; height:320px; background:rgb(14, 221, 14); border:1px solid #fff}
+.ustkalecialani{width:64px; height:27px; background:rgb(14, 221, 14); border-left: 1px solid #fff ; border-bottom:1px solid #fff; border-right:1px solid #fff; margin: 0 0 0 30px;}
+.ustcezasahasi{width:128px; height:54px; background:rgb(14, 221, 14); border-left: 1px solid #fff ; border-bottom:1px solid #fff; border-right:1px solid #fff;}
+.ustyarimdaire{width:55px; height:23px; background:rgb(14, 221, 14); border-left: 1px solid #fff ; border-bottom:1px solid #fff; border-right:1px solid #fff; border-radius: 0 0 40px 40px;margin: 0 0 0 35px }
+.ustsaha{width:177px; height:160px; padding: 0 0 0 45px; border-bottom: 1px solid #fff; background: rgb(14, 221, 14);}
+.ustyarimcember{width:64px; height:32px; border-top: 1px solid #fff; border-left: 1px solid #fff; border-right: 1px solid #fff; border-radius: 32px 32px 0 0; margin: 49px 0 0 30px;}
+
+.altsaha{width:177px; height:54.5px;  background: rgb(14, 221, 14); padding:105.5px 0 0 45px; border-bottom: 1px solid #fff;}
+.altcezasahasi{width:128px; height:54px; background: rgb(14, 221, 14); border-top: 1px solid #fff; border-left: 1px solid #fff; border-right: 1px solid #fff; }
+.altkalecialani{width:64px; height: 27px; background: rgb(14, 221, 14);border-top: 1px solid #fff; border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 25.7px 0 0 30px;}
+.altyarimdaire{width:55px; height: 23px; background:rgb(14, 221, 14); border-radius: 40px 40px 0 0; border-top: 1px solid #fff; border-left: 1px solid #fff; border-right: 1px solid #fff; margin:-79px 0 0 35px} 
+.altyarimcember{width:64px; height:32px; border-bottom: 1px solid #fff; border-left: 1px solid #fff; border-right: 1px solid #fff; border-radius: 0 0 32px 32px; margin:-105px 0 0 30px }
+
+
+ </style>   
+</head>
+<body>
+<div class="grikutu">
+<div class="acikyesilkutu">
+<div class="koyuyesilkutu">
+ <div class="saha">
+<div class="ustsaha">
+ <div class="ustcezasahasi">
+ <div class="ustkalecialani"></div> 
+ </div>
+ <div class="ustyarimdaire"></div>
+ <div class="ustyarimcember"></div> 
+</div>
+<div class="altsaha">
+ <div class="altcezasahasi">
+<div class="altkalecialani"></div>
+ </div>
+ <div class="altyarimdaire"></div>
+ <div class="altyarimcember"></div>     
+</div>
+ </div>   
+</div>  
+</div> 
+</div>
+</body>
+</html>
